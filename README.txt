@@ -24,3 +24,7 @@ Caso deseje testar o programa:
 -Clique no simbolo ► no canto superior direito da tela
 -Irá aparecer no canto inferior da tela a execução do programa
 -Prossiga com a execução
+
+Atenciosamente,
+Pedro Vitor Coelho Teixeira
+Nilton Fagundes Junior
